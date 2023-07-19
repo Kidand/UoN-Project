@@ -136,3 +136,4 @@ dataset/
 images/
 masks/
 result_json/
+pre_result/
