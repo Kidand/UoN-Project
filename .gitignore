@@ -133,7 +133,12 @@ dmypy.json
 
 # dataset
 dataset/
+dataset_new/
 dataset_total/
+dataset_public/
+dataset_total_new/
+new_ss_val_folder/
+NewBowelData/
 images/
 masks/
 result_json/
